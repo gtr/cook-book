@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  color: rgb(26, 26, 105);
+}
+
+body {
+  background-color: white;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+pre code {
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+code {
+  background-color: rgb(240, 242, 250);
+  display: inline-block;  
+}
+
+table th {
+  font-weight: bold;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table th, table td {
+  text-align: center;
+  padding: 6px 13px;
+  border: 1px solid rgb(0, 0, 0);
+}
+
